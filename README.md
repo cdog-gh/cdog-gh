@@ -7,6 +7,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
 </p>
 
+## Introduce
+ * 코드를 보다가 궁금한 점이 있으면, 이해가 될 때 까지 파고드는 개발자입니다.
+ * 함수나 클래스 내부 코드를 보는 것을 좋아하는 개발자입니다.
+   * 왜 equals를 오버라이드 하면 hashCode를 재정의 해야 할까요? [Link](https://codingdog.tistory.com/211)
+   * HashMap, HashSet는 hashCode 값이 모두 같을 때 최악 복잡도가 어떻게 될까요? [Link](https://codingdog.tistory.com/216)
+
+## School
+ * 숭실대학교 컴퓨터학부 (~ 2019.02)
+
 ## Activity
  * Contest Tester
    * SUAPC 2021 Winter [Link](https://icpc-sinchon.io/suapc)
