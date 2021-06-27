@@ -12,6 +12,7 @@
  * 함수나 클래스 내부 코드를 보는 것을 좋아하는 개발자입니다.
    * 왜 equals를 오버라이드 하면 hashCode를 재정의 해야 할까요? [Link](https://codingdog.tistory.com/211)
    * HashMap, HashSet는 hashCode 값이 모두 같을 때 최악 복잡도가 어떻게 될까요? [Link](https://codingdog.tistory.com/216)
+   * c++ sort의 비교 함수가 true만 리턴할 때 일어나는 일 [Link](https://codingdog.tistory.com/183)
 
 ## School
  * 숭실대학교 컴퓨터학부 (~ 2019.02)
