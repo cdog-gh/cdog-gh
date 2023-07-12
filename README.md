@@ -1,5 +1,5 @@
 <p align="center">Hello. I'm coding dog. <br>
-  See my blog <a href="https://codingdog.tistory.com"> here </a> </p>
+  See my blog <a href="https://codingdog.tistory.com"> here </a>
   See my new blog <a href="https://codingdog.pe.kr"> here </a> </p>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp 
